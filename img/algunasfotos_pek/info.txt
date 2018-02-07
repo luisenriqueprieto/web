@@ -1,0 +1,1 @@
+fotos en tamaño reducido para que cargue antes la pagina
